@@ -120,7 +120,7 @@
 
   <tr>
     <td><img style="height: 20px;" src="https://ai0.gptforlove.com/favicon.ico" alt="logo"></td>
-    <td><a href="https://ai0.gptforlove.com/" target="_blank"> GPT DiDi </a> </td>
+    <td><a href="https://ai0.gptforlove.com/" target="_blank"> gptforlove.com </a> </td>
     <td>😃</td>
     <td></td> 
     <td style="width: 60%; text-align: right;"><a href="https://ai0.gptforlove.com/" target="_blank">⏩</a> </td> 
