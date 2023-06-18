@@ -41,14 +41,6 @@
 
   <tr>
     <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
-    <td><a href="https://chatbot.theb.ai/" target="_blank"> BAI Chat </a> </td>
-    <td>🛫🥰</td>
-    <td></td> 
-    <td style="width: 60%; text-align: right;"><a href="https://chatbot.theb.ai/" target="_blank">⏩</a> </td> 
-  </tr>
-
-  <tr>
-    <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
     <td><a href="https://chat2.jinshutuan.com/" target="_blank"> AIChat OS </a> </td>
     <td>🥰</td>
     <td></td> 
@@ -81,6 +73,37 @@
 
   <tr>
     <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
+    <td><a href="https://www.aisoftworks.com/" target="_blank"> AI SoftWorks </a> </td>
+    <td>🥰</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://www.aisoftworks.com/" target="_blank">⏩</a> </td> 
+  </tr>
+
+  <tr>
+    <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
+    <td><a href="http://154.89.106.74:8000/zh" target="_blank"> Z-Bot UI </a> </td>
+    <td>🥰</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="http://154.89.106.74:8000/zh" target="_blank">⏩</a> </td> 
+  </tr>
+
+  <tr>
+    <td><img style="height: 20px;" src="https://chat.waixingyun.cn/favicon.ico" alt="logo"></td>
+    <td><a href="https://chat.waixingyun.cn/" target="_blank"> AlienGPT </a> </td>
+    <td>🥰</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://chat.waixingyun.cn/" target="_blank">⏩</a> </td> 
+  </tr>
+
+  <td><img style="height: 20px;" src="https://chat13.xeasy.me/favicon.svg" alt="logo"></td>
+    <td><a href="https://chat13.xeasy.me/" target="_blank"> Chat For Free </a> </td>
+    <td>😃</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://chat13.xeasy.me/" target="_blank">⏩</a> </td> 
+  </tr>
+
+  <tr>
+    <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
     <td><a href="https://chat.4.bnu120.space/" target="_blank"> Chat For Free </a> </td>
     <td>😃</td>
     <td></td> 
@@ -88,11 +111,11 @@
   </tr>
 
   <tr>
-    <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
-    <td><a href="https://www.aisoftworks.com/" target="_blank"> AI SoftWorks </a> </td>
+    <td><img style="height: 20px;" src="https://gptdidi.com/favicon.ico" alt="logo"></td>
+    <td><a href="https://gptdidi.com/" target="_blank"> GPT DiDi </a> </td>
     <td>😃</td>
     <td></td> 
-    <td style="width: 60%; text-align: right;"><a href="https://www.aisoftworks.com/" target="_blank">⏩</a> </td> 
+    <td style="width: 60%; text-align: right;"><a href="https://gptdidi.com/" target="_blank">⏩</a> </td> 
   </tr>
 
 </table>
@@ -100,4 +123,4 @@
 
 <table>
 
-> 最后编辑时间: 2023年06月17日 14点08分
+> 最后编辑时间: 2023年06月18日 21点55分
