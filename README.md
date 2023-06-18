@@ -88,7 +88,7 @@
   </tr>
 
   <tr>
-    <td><img style="height: 20px;" src="https://chat.waixingyun.cn/favicon.ico" alt="logo"></td>
+    <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
     <td><a href="https://chat.waixingyun.cn/" target="_blank"> AlienGPT </a> </td>
     <td>🥰</td>
     <td></td> 
