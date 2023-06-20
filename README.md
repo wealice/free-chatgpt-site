@@ -42,7 +42,7 @@
   <tr>
     <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
     <td><a href="http://www.ai350.com/" target="_blank"> AI 派派 </a> </td>
-    <td>🛫🥰</td>
+    <td>🥰</td>
     <td></td> 
     <td style="width: 60%; text-align: right;"><a href="http://www.ai350.com/" target="_blank">⏩</a> </td> 
   </tr>
