@@ -134,9 +134,25 @@
     <td style="width: 60%; text-align: right;"><a href="https://ai0.gptforlove.com/" target="_blank">⏩</a> </td> 
   </tr>
 
+  <tr>
+    <td><img style="height: 20px;" src="https://chat.aibear.com.cn/favicon.ico" alt="logo"></td>
+    <td><a href="https://chat.aibear.com.cn/" target="_blank"> 核桃 </a> </td>
+    <td>😃</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://chat.aibear.com.cn/" target="_blank">⏩</a> </td> 
+  </tr>
+
+  <tr>
+    <td><img style="height: 20px;" src="https://gpt90.com/favicon.ico" alt="logo"></td>
+    <td><a href="https://gpt90.com/" target="_blank"> 般若 </a> </td>
+    <td>😃</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://gpt90.com/" target="_blank">⏩</a> </td> 
+  </tr>
+
 </table>
 
 
 <table>
 
-> 最后编辑时间: 2023年06月20日 21点55分
+> 最后编辑时间: 2023年06月21日 21点55分
