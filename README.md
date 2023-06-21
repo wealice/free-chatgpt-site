@@ -143,7 +143,7 @@
   </tr>
 
   <tr>
-    <td><img style="height: 20px;" src="https://gpt90.com/favicon.ico" alt="logo"></td>
+    <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
     <td><a href="https://gpt90.com/" target="_blank"> 般若 </a> </td>
     <td>😃</td>
     <td></td> 
