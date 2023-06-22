@@ -41,6 +41,14 @@
 
   <tr>
     <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
+    <td><a href="https://www.easygpt.work/" target="_blank"> EasyChat </a> </td>
+    <td>🥰</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://www.easygpt.work/" target="_blank">⏩</a> </td> 
+  </tr>
+
+  <tr>
+    <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
     <td><a href="http://www.ai350.com/" target="_blank"> AI 派派 </a> </td>
     <td>🥰</td>
     <td></td> 
@@ -155,4 +163,4 @@
 
 <table>
 
-> 最后编辑时间: 2023年06月21日 21点55分
+> 最后编辑时间: 2023年06月22日 20点55分
