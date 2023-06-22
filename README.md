@@ -112,7 +112,7 @@
   </tr>
 
   <td><img style="height: 20px;" src="https://chat13.xeasy.me/favicon.svg" alt="logo"></td>
-    <td><a href="https://chat13.xeasy.me/" target="_blank"> Chat For Free </a> </td>
+    <td><a href="https://chat13.xeasy.me/" target="_blank"> ChatGPT Bot </a> </td>
     <td>😃</td>
     <td></td> 
     <td style="width: 60%; text-align: right;"><a href="https://chat13.xeasy.me/" target="_blank">⏩</a> </td> 
