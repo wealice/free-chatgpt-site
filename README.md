@@ -41,10 +41,10 @@
 
   <tr>
     <td><img style="height: 20px;" referrerpolicy="no-referrer" src="https://p.v50.ltd/favicon.svg" alt="logo"></td>
-    <td><a href=" https://py.c1ns.cn/" target="_blank"> P-Web </a> </td>
+    <td><a href="https://py.c1ns.cn/" target="_blank"> P-Web </a> </td>
     <td>🥰</td>
     <td></td> 
-    <td style="width: 60%; text-align: right;"><a href=" https://py.c1ns.cn/" target="_blank">⏩</a> </td> 
+    <td style="width: 60%; text-align: right;"><a href="https://py.c1ns.cn/" target="_blank">⏩</a> </td> 
   </tr>
 
   <tr>
@@ -159,7 +159,7 @@
   </tr>
 
   <tr>
-    <td><img style="height: 20px;" src="https://chat.aibear.com.cn/favicon.ico" alt="logo"></td>
+    <td><img style="height: 20px;" referrerpolicy="no-referrer" src="https://chat.aibear.com.cn/favicon.ico" alt="logo"></td>
     <td><a href="https://chat.aibear.com.cn/" target="_blank"> 核桃 </a> </td>
     <td>😃</td>
     <td></td> 
