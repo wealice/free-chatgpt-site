@@ -40,6 +40,14 @@
   </tr>
 
   <tr>
+    <td><img style="height: 20px;" referrerpolicy="no-referrer" src="https://p.v50.ltd/favicon.svg" alt="logo"></td>
+    <td><a href=" https://py.c1ns.cn/" target="_blank"> P-Web </a> </td>
+    <td>🥰</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href=" https://py.c1ns.cn/" target="_blank">⏩</a> </td> 
+  </tr>
+
+  <tr>
     <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
     <td><a href="https://www.easygpt.work/" target="_blank"> EasyChat </a> </td>
     <td>🥰</td>
@@ -109,6 +117,14 @@
     <td>🥰</td>
     <td></td> 
     <td style="width: 60%; text-align: right;"><a href="https://chat.waixingyun.cn/" target="_blank">⏩</a> </td> 
+  </tr>
+
+  <tr>
+    <td><img style="height: 20px;" referrerpolicy="no-referrer" src="https://gpt.aifree.site/pwa-192.png" alt="logo"></td>
+    <td><a href="https://gpt.aifree.site/" target="_blank"> FREEGPT </a> </td>
+    <td>😃</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://gpt.aifree.site/" target="_blank">⏩</a> </td> 
   </tr>
 
   <td><img style="height: 20px;" src="https://chat13.xeasy.me/favicon.svg" alt="logo"></td>
