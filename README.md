@@ -33,6 +33,14 @@
 
   <tr>
     <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
+    <td><a href="https://newstop.c1ns.cn/" target="_blank"> Chat 智能机器人 </a> </td>
+    <td>🆕🥰</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://newstop.c1ns.cn/" target="_blank">⏩</a> </td> 
+  </tr>
+
+  <tr>
+    <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
     <td><a href="https://chatbot.theb.ai/" target="_blank"> BAI Chat </a> </td>
     <td>🛫🥰</td>
     <td></td> 
