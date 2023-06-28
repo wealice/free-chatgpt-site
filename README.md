@@ -56,6 +56,14 @@
   </tr>
 
   <tr>
+    <td><img style="height: 20px;" referrerpolicy="no-referrer" src="https://www.zaiwen.top/favicon.ico" alt="logo"></td>
+    <td><a href="https://www.zaiwen.top/" target="_blank"> 在问 </a> </td>
+    <td>🥰</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://www.zaiwen.top/" target="_blank">⏩</a> </td> 
+  </tr>
+
+  <tr>
     <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
     <td><a href="https://www.easygpt.work/" target="_blank"> EasyChat </a> </td>
     <td>🥰</td>
@@ -182,9 +190,24 @@
     <td style="width: 60%; text-align: right;"><a href="https://gpt90.com/" target="_blank">⏩</a> </td> 
   </tr>
 
+  <tr>
+    <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
+    <td><a href="https://ai2.gptforlove.com/" target="_blank"> ChatGPT Web </a> </td>
+    <td>😃</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://ai2.gptforlove.com/" target="_blank">⏩</a> </td> 
+  </tr>
+
+  <tr>
+    <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
+    <td><a href="https://chat.0.bnu120.space/" target="_blank"> Free Chat </a> </td>
+    <td>😃</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://chat.0.bnu120.space/" target="_blank">⏩</a> </td> 
+  </tr>
 </table>
 
 
 <table>
 
-> 最后编辑时间: 2023年06月25日 20点55分
+> 最后编辑时间: 2023年06月28日 23点14分
