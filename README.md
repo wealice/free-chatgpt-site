@@ -22,7 +22,13 @@
 <table>
 
 <table>
-
+  <tr>
+    <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
+    <td><a href="https://chatgpt.kiask.xyz" target="_blank">Ultimate ChatGPT</a> </td>
+    <td>🆕</td>
+    <td></td> 
+    <td style="width: 60%; text-align: right;"><a href="https://chatgpt.kiask.xyz/?repo-free-chatgpt-site" target="_blank">⏩</a> </td> 
+  </tr>
   <tr>
     <td><img style="height: 20px;" src="https://raw.githubusercontent.com/wealice/file/main/pwa-192x192.png" alt="logo"></td>
     <td><a href="https://c1ns.cn/chat/" target="_blank"> Chat 机器人 </a> </td>
